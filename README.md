@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 # 💫 About Me:
 - 🔭 I’m currently working on a online book store app.
 - 🌱 I’m currently learning building applications using Spring Boot, Angular and MySQL
-I'm currently learning building applications with Spring Boot, Angular and MySQL.<br>I'm currently working on a online book store application.
 
 
 ## 🌐 Socials:
