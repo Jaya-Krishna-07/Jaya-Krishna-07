@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a online book store app.
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaya-krishna07/) 
 
 
