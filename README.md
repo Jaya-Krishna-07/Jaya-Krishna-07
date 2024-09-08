@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<h1 align="center">Hi 👋, I'm Jaya Krishna Mannem</h1>
+<h3 align="center">A passionate Full Stack Developer</h3>
 # 💫 About Me:
 - 🔭 I’m currently working on a online book store app.
 - 🌱 I’m currently learning building applications using Spring Boot, Angular and MySQL
