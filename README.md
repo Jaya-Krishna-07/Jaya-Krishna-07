@@ -31,9 +31,6 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jaya-krishna-07&theme=dark&hide_border=false)<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaya-krishna-07&show_icons=true&locale=en&layout=compact" alt="jaya-krishna" /></p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jaya-krishna-07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jaya-krishna-07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
