@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 
-<a href="https://www.oracle.com/in/java/technologies/java-se-glance.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring-boot" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/> </a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://www.oracle.com/in/java/technologies/java-se-glance.html" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://spring.io/" target="blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring-boot" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://angular.dev/" target="blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/> </a>
+<a href="https://www.postman.com/" target="blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/> </a>
 
 
 # 💻 Tech Stack:
