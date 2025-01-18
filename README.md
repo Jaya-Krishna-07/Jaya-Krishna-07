@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 # 💫 About Me:
-- 🌱 I’m currently learning **Spring Boot, Angular and MySQL**
-
-- 🔭 I’m currently working on a online book store app.
+- 🌱 I’m currently learning **Spring Boot, React JS, Node JS, Angular and MySQL**
 
 
 ## 🌐 Connect with me:
